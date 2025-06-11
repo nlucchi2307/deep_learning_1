@@ -1,5 +1,3 @@
-# deep_learning_1
-
 # 🏥 ICU Mortality Prediction with SVM
 
 This project explores whether diagnosis descriptions in ICU admissions can help predict **in-hospital mortality**, using text mining and supervised learning techniques on the **MIMIC** dataset.
