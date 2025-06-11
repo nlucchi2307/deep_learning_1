@@ -52,4 +52,4 @@ Split the dataset into two groups:
 
 ## 👤 Author
 Noemi Lucchi  
-Text Mining Project — BSE 2024–2025
+Deep Learning Project — BSE 2024–2025
